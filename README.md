@@ -1,5 +1,6 @@
-# Projeto NLW - 4 - Rocketseat - moveit 
+## Projeto NLW - 4 - Rocketseat - moveit 
 
-Projeto em NEXT</br>
-Deploy->
-https://moveit-jet-delta.vercel.app/
+O NLW é um evento intensivo com conteúo inédito promovido pela [Roquetseat] (https://www.rocketseat.com.br/) desenhado pela comunidade para te ajudar os participantes a dar o próximo passo na sua evolução na prática. Os projetos da NLW constroem uma aplicação completa, nesta edição foi desenvolvido um projeto de uma aplicação em estilo pomodoro, com ciclos pré determinados de tempo que ao final de cada ciclo é oferecido um desafio ao usuário. 
+
+Projeto foi desenvolvido em NEXT</br>
+Para visualizar o deploy clique -> [Deploy] (https://moveit-jet-delta.vercel.app/)
